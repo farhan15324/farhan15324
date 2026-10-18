@@ -1,17 +1,160 @@
-# 💫 About Me:
-## 👋 Hi, I'm Farhan!<br><br>🎓 I'm a Computer Science and Engineering student at Dr. M.G.R. Educational and Research Institute, passionate about building impactful web applications and exploring AI-driven solutions.<br><br>💻 I enjoy developing full-stack applications using React.js, Flask, Python, and JavaScript, with a focus on creating responsive user interfaces and practical solutions to real-world problems.<br><br>🚀 Some of my projects include:<br>- AdhikarBot — An AI-powered government scheme eligibility analyzer.<br>- Voice-Driven Form Auto-Filler — A multilingual voice-based form-filling system supporting 5 languages.<br>- Resume Ranker — An AI-assisted application for scoring and ranking resumes.<br>- ERP Management System — An admission and fee management prototype developed for Smart India Hackathon.<br><br>📚 I'm continuously learning, improving my development skills, and exploring opportunities to build innovative software solutions.<br><br>🤝 I'm open to collaborating on interesting projects involving web development, AI, NLP, and software engineering.<br><br>📫 Connect with me: https://linkedin.com/in/mohdfarhansiddquis<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:1e3a8a,100%:06b6d4&height=200&section=header&text=Mohd%20Farhan%20Siddqui%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20NLP%20Builder%20%7C%20CSE%20Undergrad&descAlignY=58&descSize=16" width="100%" alt="header" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fa.rhan7111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MOHDFARHANSIDDQUIS) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bemohdfarhansiddquis@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+tech+for+Indian+civic+%26+accessibility+needs;Voice+interfaces+%C2%B7+Regional+language+NLP+%C2%B7+Full-stack+apps;Co-author+of+a+Scopus-indexed+book+chapter;Open+to+internships+%26+collaborations" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=farhan15324&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=farhan15324&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=farhan15324&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohdfarhansiddquis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdfarhansiddquis)
+[![Gmail](https://img.shields.io/badge/Email-bemohdfarhansiddquis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bemohdfarhansiddquis@gmail.com)
+![Location](https://img.shields.io/badge/Chennai-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=06b6d4)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=farhan15324&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👋 About Me
+
+I'm a **B.Tech Computer Science & Engineering** student (2023–2027) at **Dr. M.G.R. Educational and Research Institute, Chennai**. I enjoy turning real-world problems into working software, especially where **language, voice, and accessibility** meet technology.
+
+- 🏛️ I build practical tools for **Indian civic and accessibility contexts**, from welfare-scheme discovery to voice-driven government forms
+- 🗣️ Working with **speech-to-text, multilingual NLP, and rule-based scoring systems**
+- 📚 Co-authored a book chapter on **Emotion AI for wearable stress and mood monitoring** (Scopus-indexed volume)
+- 💼 Completed a **Web Development internship**, shipping React interfaces in a 4-member team
+- 🌐 Speaks **English, Tamil, Hindi** fluently, and a little **German**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Databases, Cloud & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**AI / NLP**
+
+![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP_Field_Extraction-0f172a?style=for-the-badge)
+![TTS](https://img.shields.io/badge/Multilingual_TTS-0f172a?style=for-the-badge)
+
+</div>
+
+**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems
+
+---
+
+## 🚀 Featured Projects
+
+### 🏛️ AdhikarBot: Eligibility Gap Analyzer
+> A full-stack platform that matches citizens to **3,400+ government welfare schemes**.
+
+- Rule-based **eligibility scoring engine (0–100 scale)** with gap analysis showing what's missing to qualify
+- Automated **PDF report generation** for each citizen
+- **Stack:** `Flask` `React.js` `Python` `SQLite`
+
+### 🎙️ Voice-Driven Multilingual Government Form Auto-Filler
+> Speak instead of type: a voice-based form-filling system supporting **5 languages**.
+
+- **Whisper** speech-to-text with **NLP field extraction** to populate form fields
+- **3-tier multilingual TTS fallback** for spoken confirmation
+- **Stack:** `Flask` `React.js` `Web Speech API` `Whisper` `NLP`
+
+### 📄 Resume Ranker Web App
+> AI-assisted resume scoring and ranking.
+
+- JavaScript frontend with a Python + Firebase backend to score and rank uploaded resumes
+- **Stack:** `HTML` `CSS` `JavaScript` `Python` `Firebase`
+
+### 🧾 ERP Admission & Fee Management System
+> Multi-module ERP prototype built for **Smart India Hackathon**.
+
+- Google Apps Script + Google Sheets backend with a JavaScript frontend for admissions and fee workflows, including input validation
+- **Stack:** `Google Apps Script` `Google Sheets` `HTML` `CSS` `JavaScript`
+
+---
+
+## 💼 Experience
+
+**Winter Intern, Web Development** · *Origins Tribes Pvt. Ltd.* · Nov 2025 – Feb 2026
+
+- Built the frontend of a client-facing website in a **4-member team** using **React.js and Tailwind CSS**
+- Implemented responsive UI across multiple pages
+- Followed a professional workflow with strong standards for code quality, confidentiality, and IP
+
+---
+
+## 📚 Publication
+
+📖 **Emotion AI-Enabled Wearable Systems for Stress and Mood Monitoring** (Chapter 14, co-author)
+*Emotionally Intelligent Wearables: AI-Driven Adaptive Interfaces for Personalized Healthcare*, Bentham Science Publishers (Scopus-indexed volume)
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issuer |
+|---|---|
+| HTML, CSS, JavaScript, React | Udemy |
+| Python for AI & Machine Learning | Udemy |
+| AWS Cloud Training (60 hours) | Dr. MGR University |
+| AWS Technical Professional Accreditation | AWS |
+
+---
+
+## 🎬 Beyond Code
+
+I also run **FARNYX**, a gaming and tech YouTube channel, where I create content and scripts alongside my development work.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **internships, collaborations, and hackathon teams**, especially around **AI, voice/NLP, and civic-tech**. Reach out on [LinkedIn](https://linkedin.com/in/mohdfarhansiddquis) or by [email](mailto:bemohdfarhansiddquis@gmail.com).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50%:1e3a8a,100%:0f172a&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
