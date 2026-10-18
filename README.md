@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:1e3a8a,100%:06b6d4&height=200&section=header&text=Mohd%20Farhan%20Siddqui%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20NLP%20Builder%20%7C%20CSE%20Undergrad&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:1e3a8a,100%:06b6d4&height=200&section=header&text=Mohd%20Farhan%20Siddqui%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20NLP%20Builder%20%7C%20CSE%20Undergrad&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+tech+for+Indian+civic+%26+accessibility+needs;Voice+interfaces+%C2%B7+Regional+language+NLP+%C2%B7+Full-stack+apps;Co-author+of+a+Scopus-indexed+book+chapter;Open+to+internships+%26+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+tech+for+Indian+civic+and+accessibility+needs;Voice+interfaces+-+Regional+language+NLP+-+Full-stack+apps;Co-author+of+a+Scopus-indexed+book+chapter;Open+to+internships+and+collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -129,21 +129,14 @@ I'm a **B.Tech Computer Science & Engineering** student (2023–2027) at **Dr. M
 
 ---
 
-## 🎬 Beyond Code
-
-I also run **FARNYX**, a gaming and tech YouTube channel, where I create content and scripts alongside my development work.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farhan15324&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan15324&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhan15324&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak" />
 
 </div>
 
